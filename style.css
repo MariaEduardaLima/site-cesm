@@ -1,3 +1,8 @@
 body{
     background-color: darkturquoise;
 }
+
+.cabecalho {
+    background-color: #297E79;
+    display: flex;
+    justify-content: space-around;}
