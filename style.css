@@ -2,7 +2,7 @@ body{
     background-color: darkturquoise;
 }
 
-.cabecalho {
+.cabeçalho {
     background-color: #297E79;
     display: flex;
     justify-content: space-around;}
