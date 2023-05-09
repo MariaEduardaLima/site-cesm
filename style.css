@@ -25,3 +25,18 @@ body{
     font-weight: bolder;
 
 } 
+
+
+.escola{
+    background-image: linear-gradient();
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.texto-lista{
+
+    display: inline-block;
+    list-style-type: none;
+}
