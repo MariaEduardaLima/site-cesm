@@ -42,6 +42,12 @@ body{
 }
 
 .escola-imagem{
-    width: 100%;
+    width: 150%;
     margin: 46px;
+}
+.escola-texto{
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    margin: 20px;
 }
