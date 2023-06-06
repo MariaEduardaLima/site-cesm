@@ -51,3 +51,9 @@ body{
     font-size: 25px;
     margin: 20px;
 }
+
+.equipe {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+}
