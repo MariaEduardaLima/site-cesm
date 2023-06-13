@@ -60,7 +60,7 @@ body{
 .equipe {
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 30px;
+    font-size: 35px;
     color:black;
 }
 
@@ -86,4 +86,13 @@ body{
 }
 .icones{
     width:30%;
+}
+footer{
+    text-align:center;
+    background-color:#297E79;
+    padding:10px 0;
+}
+.siga-nos{
+    color: #2AA6A6;
+
 }
