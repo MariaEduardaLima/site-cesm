@@ -50,11 +50,17 @@ body{
     font-family: 'Times New Roman', Times, serif;
     font-size: 25px;
     margin: 20px;
+
+}
+.QuemSomos{
+    background-color: #2AA6A6 (46, 128, 148, 0.6) ;
+
 }
 
 .equipe {
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
     color:black;
 }
 
@@ -63,11 +69,21 @@ body{
     margin: 10px;
     display: flex;
     padding: 50px;
-    justify-content: space-evenly ;
+    justify-content:space-evenly;
 }
 
 .equipe-colunas{
     display: contents;
     list-style-type: none;
     text-align: center;
+}
+.profissional-nome{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding: 10px;
+
+}
+.icones{
+    width:30%;
 }
