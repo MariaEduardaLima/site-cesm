@@ -11,9 +11,10 @@ body{
     background-color: #297E79;
     display:flex;
     align-items:flex-end;
-    justify-content:space-around;}
+    justify-content:space-around;
+}
 
-    .cabeçalho-imagem {
+.cabeçalho-imagem {
         width:40%;
         padding:12px; 
     }
