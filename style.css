@@ -94,18 +94,21 @@ body{
 }
 footer{
     text-align:center;
-    background-color:#297E79;
+    background-color:#297E79 (62, 63, 68, 0.75);
     padding:10px 0;
 }
 .siga-nos{
-    color: #2AA6A6;
+    color: #2AA6A6 (255, 255, 255, 1);
     font-size: 20px;
-    padding: 10px 0 0;}
+    padding: 10px 0 0;
+}
 
     .imagem_rodape{
         width: 10%;
         padding: 5px 0 0;
     }
     .contato{
-        
+        color: #2AA6A6 (255, 255, 255, 1);
+        font-size: 25px;
+        padding: 5px 0 0;
     }
